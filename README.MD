@@ -7,4 +7,4 @@ Here for demo I have put 5-6 jpg images
 <p>For Running selected image click on Run button.
 </p>
 </b>
-
+Checkout output directory to see how our output file looks like
